@@ -1,0 +1,15 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+.reveal .slides {
+    text-align: left;
+}
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-family: unset;
+    text-transform: unset;
+}
